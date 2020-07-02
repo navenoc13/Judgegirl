@@ -27,24 +27,36 @@ My Judgegirl solutions
 - 202 [Mixed Fractions](https://judgegirl.csie.org/problem/0/202)
 
 ### Loop
-- 15  [Print Backward to 1](https://judgegirl.csie.org/problem/0/15)
-- 12  [Up and Down](https://judgegirl.csie.org/problem/0/12)
-- 13  [Print a Repeated Pattern](https://judgegirl.csie.org/problem/0/13)
-- 73  [3n, 3n + 1, and 3n + 2](https://judgegirl.csie.org/problem/0/73)
-- 88  [AB Numbers](https://judgegirl.csie.org/problem/0/88)
-- 54  [Number of Appearance](https://judgegirl.csie.org/problem/0/54
-- 97  [Bicycle and Parking Lot](https://judgegirl.csie.org/problem/0/97)
+- 15 [Print Backward to 1](https://judgegirl.csie.org/problem/0/15)
+- 12 [Up and Down](https://judgegirl.csie.org/problem/0/12)
+- 13 [Print a Repeated Pattern](https://judgegirl.csie.org/problem/0/13)
+- 73 [3n, 3n + 1, and 3n + 2](https://judgegirl.csie.org/problem/0/73)
+- 88 [AB Numbers](https://judgegirl.csie.org/problem/0/88)
+- 54 [Number of Appearance](https://judgegirl.csie.org/problem/0/54)
+- 97 [Bicycle and Parking Lot](https://judgegirl.csie.org/problem/0/97)
 - 232 [What day is Today?](https://judgegirl.csie.org/problem/0/232)
 - 244 [Lottery](https://judgegirl.csie.org/problem/0/244)
 - 234 [Factorization](https://judgegirl.csie.org/problem/0/234)
 - 242 [Three Circles](https://judgegirl.csie.org/problem/0/242)
-- 36  [Calender](https://judgegirl.csie.org/problem/0/36)
+- 36 [Calender](https://judgegirl.csie.org/problem/0/36)
 - 204 [House of Mirrors](https://judgegirl.csie.org/problem/0/204)
 - 203 [Bouncing Balls](https://judgegirl.csie.org/problem/0/203)
-- 55  [The Robots](https://judgegirl.csie.org/problem/0/55)
+- 55 [The Robots](https://judgegirl.csie.org/problem/0/55)
 
 
 ### Array
+- 14 [Print the Sequence Backward](https://judgegirl.csie.org/problem/0/14)
+- 16 [Even and Odd](https://judgegirl.csie.org/problem/0/16)
+- 74 [Mn, Mn + 1, ... Mn + M - 1](https://judgegirl.csie.org/problem/0/74)
+- 17 [Column Average](https://judgegirl.csie.org/problem/0/17)
+- 18 [Larger than Neighbors](https://judgegirl.csie.org/problem/0/18)
+- 33 [Intersections](https://judgegirl.csie.org/problem/0/33)
+- 195 [Tic-Tac-Toe](https://judgegirl.csie.org/problem/0/195)
+- 99 [Bingo](https://judgegirl.csie.org/problem/0/99)
+- 32 [Longest Double Palindrome](https://judgegirl.csie.org/problem/0/32)
+- 49 [Sum, Maximum and Minimum](https://judgegirl.csie.org/problem/0/49)
+- 265 [Minimum Containing Box](https://judgegirl.csie.org/problem/0/265)
+- 271 [Multiply Polynomials](https://judgegirl.csie.org/problem/0/271)
 - 235 [Pachinko](https://judgegirl.csie.org/problem/0/235)
 
 ### Function
