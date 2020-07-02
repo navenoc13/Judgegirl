@@ -15,7 +15,8 @@ My Judgegirl solutions
 - 283 [Chicken, Rabbit, and Crab in a Cage](https://judgegirl.csie.org/problem/0/283)
 
 ### Comparison and Logic
-- 240 [Square-Diamond-and-Rectangle](https://judgegirl.csie.org/problem/0/240)
+- 7 [3, 5, and 7](https://judgegirl.csie.org/problem/0/7)
+- 8 [Triangle Length](https://judgegirl.csie.org/problem/0/8)
 
 ### If-then-else-switch
 - 240 [Square-Diamond-and-Rectangle](https://judgegirl.csie.org/problem/0/240)
