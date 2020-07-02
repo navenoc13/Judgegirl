@@ -95,3 +95,5 @@ My Judgegirl solutions
 - 46 [Play with Words](https://judgegirl.csie.org/problem/0/46)
 - 98 [Food Ingredients in Common](https://judgegirl.csie.org/problem/0/98)
 - 221 [Typesetting](https://judgegirl.csie.org/problem/0/221)
+- 270 [A Simple BASIC Interpreter](https://judgegirl.csie.org/problem/0/270)
+- 47 [Play with Words, Too.](https://judgegirl.csie.org/problem/0/47)
