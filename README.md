@@ -7,6 +7,8 @@ My Judgegirl solutions
 ### Basic IO and Arithmetic
 - 3 [Print Two Numbers](https://judgegirl.csie.org/problem/0/3)
 - 4 [Add Three Numbers](https://judgegirl.csie.org/problem/0/4)
+- 5 [Surface Area and Volume](https://judgegirl.csie.org/problem/0/5)
+- 6 [Print Three Digits](https://judgegirl.csie.org/problem/0/6)
 
 ### Comparison and Logic
 - 240 [Square-Diamond-and-Rectangle](https://judgegirl.csie.org/problem/0/240)
