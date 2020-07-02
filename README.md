@@ -87,3 +87,7 @@ My Judgegirl solutions
 - 220 [Sentence Count](https://judgegirl.csie.org/problem/0/220)
 - 277 [Digits](https://judgegirl.csie.org/problem/0/277)
 - 10019 [String Trim (Presentation Error)](https://judgegirl.csie.org/problem/0/10019)
+
+### String
+- 130 [Similar Strings](https://judgegirl.csie.org/problem/0/130)
+- 260 [String Fusion](https://judgegirl.csie.org/problem/0/260)
