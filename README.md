@@ -93,3 +93,5 @@ My Judgegirl solutions
 - 260 [String Fusion](https://judgegirl.csie.org/problem/0/260)
 - 276 [Abbreviation](https://judgegirl.csie.org/problem/0/276)
 - 46 [Play with Words](https://judgegirl.csie.org/problem/0/46)
+- 98 [Food Ingredients in Common](https://judgegirl.csie.org/problem/0/98)
+- 221 [Typesetting](https://judgegirl.csie.org/problem/0/221)
