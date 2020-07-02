@@ -1,5 +1,5 @@
 # NTU CSIE 107-1 Introduction to Computer Programming
-Judgegirl - C Programming
+My Judgegirl solutions
 
 
 ## Problem Description
