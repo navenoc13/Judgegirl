@@ -91,3 +91,5 @@ My Judgegirl solutions
 ### String
 - 130 [Similar Strings](https://judgegirl.csie.org/problem/0/130)
 - 260 [String Fusion](https://judgegirl.csie.org/problem/0/260)
+- 276 [Abbreviation](https://judgegirl.csie.org/problem/0/276)
+- 46 [Play with Words](https://judgegirl.csie.org/problem/0/46)
