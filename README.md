@@ -58,3 +58,12 @@ My Judgegirl solutions
 - 265 [Minimum Containing Box](https://judgegirl.csie.org/problem/0/265)
 - 271 [Multiply Polynomials](https://judgegirl.csie.org/problem/0/271)
 - 235 [Pachinko](https://judgegirl.csie.org/problem/0/235)
+
+### Function
+- 236 [Least Common Multiplier](https://judgegirl.csie.org/problem/0/236)
+- 21 [Maximum in Matrix](https://judgegirl.csie.org/problem/0/21)
+- 22 [Negative and Positive](https://judgegirl.csie.org/problem/0/22)
+- 128 [City Roads](https://judgegirl.csie.org/problem/0/128)
+- 218 [Sum of Selections](https://judgegirl.csie.org/problem/0/218)
+- 50 [Overlap Area](https://judgegirl.csie.org/problem/0/50)
+- 37 [Metal Value](https://judgegirl.csie.org/problem/0/37)
