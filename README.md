@@ -79,3 +79,11 @@ My Judgegirl solutions
 - 190 [Function Evaluation](https://judgegirl.csie.org/problem/0/190)
 - 129 [A Zig Zag Array](https://judgegirl.csie.org/problem/0/129)
 - 100 [Snake Order](https://judgegirl.csie.org/problem/0/100)
+
+### Character
+- 75 [Count Letters](https://judgegirl.csie.org/problem/0/75)
+- 106 [Divisible](https://judgegirl.csie.org/problem/0/106)
+- 24 [Vowel, Consonant, and Digit](https://judgegirl.csie.org/problem/0/24)
+- 220 [Sentence Count](https://judgegirl.csie.org/problem/0/220)
+- 277 [Digits](https://judgegirl.csie.org/problem/0/277)
+- 10019 [String Trim (Presentation Error)](https://judgegirl.csie.org/problem/0/10019)
