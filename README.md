@@ -24,6 +24,7 @@ My Judgegirl solutions
 - 80 [Triangle](https://judgegirl.csie.org/problem/0/80)
 - 240 [Square-Diamond-and-Rectangle](https://judgegirl.csie.org/problem/0/240)
 - 10 [Power](https://judgegirl.csie.org/problem/0/10)
+- 202 [Mixed Fractions](https://judgegirl.csie.org/problem/0/202)
 
 ### Loop
 - 97  [Bicycle and Parking Lot](https://judgegirl.csie.org/problem/0/97)
