@@ -2,7 +2,7 @@
 #### Professor : [劉邦鋒](http://www.csie.ntu.edu.tw/~pangfeng/)
 #### Course Website : https://sites.google.com/view/ntucsie-c2018/home
 
-My Judgegirl solutions
+My Judgegirl Solutions
 
 ## Problem Description
 
