@@ -12,6 +12,7 @@ My Judgegirl solutions
 - 5 [Surface Area and Volume](https://judgegirl.csie.org/problem/0/5)
 - 6 [Print Three Digits](https://judgegirl.csie.org/problem/0/6)
 - 27 [Surface Area and Volume of a Box](https://judgegirl.csie.org/problem/0/27)
+- 283 [Chicken, Rabbit, and Crab in a Cage](https://judgegirl.csie.org/problem/0/283)
 
 ### Comparison and Logic
 - 240 [Square-Diamond-and-Rectangle](https://judgegirl.csie.org/problem/0/240)
