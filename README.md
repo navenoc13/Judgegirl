@@ -71,3 +71,11 @@ My Judgegirl solutions
 ### Floating Point Numbers
 - 96 [Cow and House](https://judgegirl.csie.org/problem/0/96)
 - 103 [Triangular Matrix Solver](https://judgegirl.csie.org/problem/0/103)
+
+### Pointer
+- 23 [Maximum in Pointer Array](https://judgegirl.csie.org/problem/0/23)
+- 206 [Card Shuffling](https://judgegirl.csie.org/problem/0/206)
+- 72 [Fill the Array](https://judgegirl.csie.org/problem/0/72)
+- 190 [Function Evaluation](https://judgegirl.csie.org/problem/0/190)
+- 129 [A Zig Zag Array](https://judgegirl.csie.org/problem/0/129)
+- 100 [Snake Order](https://judgegirl.csie.org/problem/0/100)
