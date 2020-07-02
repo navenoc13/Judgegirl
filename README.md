@@ -17,9 +17,13 @@ My Judgegirl solutions
 ### Comparison and Logic
 - 7 [3, 5, and 7](https://judgegirl.csie.org/problem/0/7)
 - 8 [Triangle Length](https://judgegirl.csie.org/problem/0/8)
+- 241 [Origin in Quadrilateral](https://judgegirl.csie.org/problem/0/241)
 
 ### If-then-else-switch
+- 9 [Score of an Integer](https://judgegirl.csie.org/problem/0/9)
+- 80 [Triangle](https://judgegirl.csie.org/problem/0/80)
 - 240 [Square-Diamond-and-Rectangle](https://judgegirl.csie.org/problem/0/240)
+- 10 [Power](https://judgegirl.csie.org/problem/0/10)
 
 ### Loop
 - 97  [Bicycle and Parking Lot](https://judgegirl.csie.org/problem/0/97)
