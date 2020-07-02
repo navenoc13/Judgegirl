@@ -27,9 +27,22 @@ My Judgegirl solutions
 - 202 [Mixed Fractions](https://judgegirl.csie.org/problem/0/202)
 
 ### Loop
+- 15  [Print Backward to 1](https://judgegirl.csie.org/problem/0/15)
+- 12  [Up and Down](https://judgegirl.csie.org/problem/0/12)
+- 13  [Print a Repeated Pattern](https://judgegirl.csie.org/problem/0/13)
+- 73  [3n, 3n + 1, and 3n + 2](https://judgegirl.csie.org/problem/0/73)
+- 88  [AB Numbers](https://judgegirl.csie.org/problem/0/88)
+- 54  [Number of Appearance](https://judgegirl.csie.org/problem/0/54
 - 97  [Bicycle and Parking Lot](https://judgegirl.csie.org/problem/0/97)
-- 204 [House of Mirrors](https://judgegirl.csie.org/problem/0/204)
+- 232 [What day is Today?](https://judgegirl.csie.org/problem/0/232)
+- 244 [Lottery](https://judgegirl.csie.org/problem/0/244)
 - 234 [Factorization](https://judgegirl.csie.org/problem/0/234)
+- 242 [Three Circles](https://judgegirl.csie.org/problem/0/242)
+- 36  [Calender](https://judgegirl.csie.org/problem/0/36)
+- 204 [House of Mirrors](https://judgegirl.csie.org/problem/0/204)
+- 203 [Bouncing Balls](https://judgegirl.csie.org/problem/0/203)
+- 55  [The Robots](https://judgegirl.csie.org/problem/0/55)
+
 
 ### Array
 - 235 [Pachinko](https://judgegirl.csie.org/problem/0/235)
