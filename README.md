@@ -1,11 +1,18 @@
 # NTU CSIE 107-1 Introduction to Computer Programming
-My Judgegirl solutions
+#### Professor : [劉邦鋒](http://www.csie.ntu.edu.tw/~pangfeng/)
+#### Course Website : https://sites.google.com/view/ntucsie-c2018/home
 
+My Judgegirl solutions
 
 ## Problem Description
 
 ### Basic IO and Arithmetic
 - 3 [Print Two Numbers](https://judgegirl.csie.org/problem/0/3)
+- 4 [Add Three Numbers](https://judgegirl.csie.org/problem/0/4)
+- 5 [Surface Area and Volume](https://judgegirl.csie.org/problem/0/5)
+- 6 [Print Three Digits](https://judgegirl.csie.org/problem/0/6)
+- 27 [Surface Area and Volume of a Box](https://judgegirl.csie.org/problem/0/27)
+- 283 [Chicken, Rabbit, and Crab in a Cage](https://judgegirl.csie.org/problem/0/283)
 
 ### Comparison and Logic
 - 240 [Square-Diamond-and-Rectangle](https://judgegirl.csie.org/problem/0/240)
