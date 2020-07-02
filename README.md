@@ -67,3 +67,7 @@ My Judgegirl solutions
 - 218 [Sum of Selections](https://judgegirl.csie.org/problem/0/218)
 - 50 [Overlap Area](https://judgegirl.csie.org/problem/0/50)
 - 37 [Metal Value](https://judgegirl.csie.org/problem/0/37)
+
+### Floating Point Numbers
+- 96 [Cow and House](https://judgegirl.csie.org/problem/0/96)
+- 103 [Triangular Matrix Solver](https://judgegirl.csie.org/problem/0/103)
