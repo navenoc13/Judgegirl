@@ -27,127 +27,34 @@ My Judgegirl solutions
 - 202 [Mixed Fractions](https://judgegirl.csie.org/problem/0/202)
 
 ### Loop
-- 15  [Print Backward to 1](https://judgegirl.csie.org/problem/0/15)
-- 12  [Up and Down](https://judgegirl.csie.org/problem/0/12)
-- 13  [Print a Repeated Pattern](https://judgegirl.csie.org/problem/0/13)
-- 73  [3n, 3n + 1, and 3n + 2](https://judgegirl.csie.org/problem/0/73)
-- 88  [AB Numbers](https://judgegirl.csie.org/problem/0/88)
-- 54  [Number of Appearance](https://judgegirl.csie.org/problem/0/54
-- 97  [Bicycle and Parking Lot](https://judgegirl.csie.org/problem/0/97)
+- 15 [Print Backward to 1](https://judgegirl.csie.org/problem/0/15)
+- 12 [Up and Down](https://judgegirl.csie.org/problem/0/12)
+- 13 [Print a Repeated Pattern](https://judgegirl.csie.org/problem/0/13)
+- 73 [3n, 3n + 1, and 3n + 2](https://judgegirl.csie.org/problem/0/73)
+- 88 [AB Numbers](https://judgegirl.csie.org/problem/0/88)
+- 54 [Number of Appearance](https://judgegirl.csie.org/problem/0/54)
+- 97 [Bicycle and Parking Lot](https://judgegirl.csie.org/problem/0/97)
 - 232 [What day is Today?](https://judgegirl.csie.org/problem/0/232)
 - 244 [Lottery](https://judgegirl.csie.org/problem/0/244)
 - 234 [Factorization](https://judgegirl.csie.org/problem/0/234)
 - 242 [Three Circles](https://judgegirl.csie.org/problem/0/242)
-- 36  [Calender](https://judgegirl.csie.org/problem/0/36)
+- 36 [Calender](https://judgegirl.csie.org/problem/0/36)
 - 204 [House of Mirrors](https://judgegirl.csie.org/problem/0/204)
 - 203 [Bouncing Balls](https://judgegirl.csie.org/problem/0/203)
-- 55  [The Robots](https://judgegirl.csie.org/problem/0/55)
+- 55 [The Robots](https://judgegirl.csie.org/problem/0/55)
 
 
 ### Array
+- 14 [Print the Sequence Backward](https://judgegirl.csie.org/problem/0/14)
+- 16 [Even and Odd](https://judgegirl.csie.org/problem/0/16)
+- 74 [Mn, Mn + 1, ... Mn + M - 1](https://judgegirl.csie.org/problem/0/74)
+- 17 [Column Average](https://judgegirl.csie.org/problem/0/17)
+- 18 [Larger than Neighbors](https://judgegirl.csie.org/problem/0/18)
+- 33 [Intersections](https://judgegirl.csie.org/problem/0/33)
+- 195 [Tic-Tac-Toe](https://judgegirl.csie.org/problem/0/195)
+- 99 [Bingo](https://judgegirl.csie.org/problem/0/99)
+- 32 [Longest Double Palindrome](https://judgegirl.csie.org/problem/0/32)
+- 49 [Sum, Maximum and Minimum](https://judgegirl.csie.org/problem/0/49)
+- 265 [Minimum Containing Box](https://judgegirl.csie.org/problem/0/265)
+- 271 [Multiply Polynomials](https://judgegirl.csie.org/problem/0/271)
 - 235 [Pachinko](https://judgegirl.csie.org/problem/0/235)
-
-### Function
-- 235 [Pachinko](https://judgegirl.csie.org/problem/0/235)
-
-### Floating Point Numbers
-- 235 [Pachinko](https://judgegirl.csie.org/problem/0/235)
-
-### Pointer
-- 235 [Pachinko](https://judgegirl.csie.org/problem/0/235)
-
-### Character
-- 235 [Pachinko](https://judgegirl.csie.org/problem/0/235)
-
-### String
-- 46  [Play with Words](https://judgegirl.csie.org/problem/0/46)
-- 47  [Play with Words, too](https://judgegirl.csie.org/problem/0/46)
-- 98  [Food Ingredients in Common](https://judgegirl.csie.org/problem/0/98)
-- 130 [Similar Strings](https://judgegirl.csie.org/problem/0/130)
-- 221 [Typesetting](https://judgegirl.csie.org/problem/0/221)
-- 270 [A Simple BASIC Interpreter](https://judgegirl.csie.org/problem/0/270)
-
-### Extended Data Types and Bit Operation
-- 270 [A Simple BASIC Interpreter](https://judgegirl.csie.org/problem/0/270)
-
-### Recursion
-- 38  [Witchcraft](https://judgegirl.csie.org/problem/0/38)
-- 53  [Permutation](https://judgegirl.csie.org/problem/0/53)
-- 58  [Lakes](https://judgegirl.csie.org/problem/0/58)
-- 104 [Material Composition](https://judgegirl.csie.org/problem/0/104)
-- 132 [Color Countries](https://judgegirl.csie.org/problem/0/132)
-- 223 [Tiles](https://judgegirl.csie.org/problem/0/223)
-- 230 [Knapsack](https://judgegirl.csie.org/problem/0/230)
-- 238 [Subset Sum](https://judgegirl.csie.org/problem/0/238)
-- 248 [Mine Field](https://judgegirl.csie.org/problem/0/248)
-- 261 [Puzzle Equation](https://judgegirl.csie.org/problem/0/261)
-- 266 [Edit Eistance](https://judgegirl.csie.org/problem/0/266)
-- 50036 [Pick up Numbers](https://judgegirl.csie.org/problem/0/50036)
-
-### Structure
-- 50036 [Pick up Numbers](https://judgegirl.csie.org/problem/0/50036)
-
-### File I/O
-- 50036 [Pick up Numbers](https://judgegirl.csie.org/problem/0/50036)
-
-### Data Structure
-- 65  [Expression Tree](https://judgegirl.csie.org/problem/0/65)
-- 87  [Merge Lists](https://judgegirl.csie.org/problem/0/87)
-- 93  [Heap](https://judgegirl.csie.org/problem/0/93)
-- 94  [Tree Traversal](https://judgegirl.csie.org/problem/0/94)
-- 269 [Memory Allocation](https://judgegirl.csie.org/problem/0/269)
-
-### Stdlib & Preprocessing
-- 76 [Strings](https://judgegirl.csie.org/problem/0/76)
-- 137 [Students Grades](https://judgegirl.csie.org/problem/0/137)
-- 239 [Daily Expense](https://judgegirl.csie.org/problem/0/239)
-- 253 [Time Object](https://judgegirl.csie.org/problem/0/253)
-
-### Advanced
-- 10005 [Parse Integer](https://judgegirl.csie.org/problem/0/10005)
-- 10009 [Reduce a Fraction](https://judgegirl.csie.org/problem/0/10009)
-- 10010 [Conquering Cities and Towns](https://judgegirl.csie.org/problem/0/10010)
-- 10011 [Move Zeroes](https://judgegirl.csie.org/problem/0/10011)
-- 10016 [Structure Fraction](https://judgegirl.csie.org/problem/0/10016)
-- 10017 [Fast Dynamic Nearest Neighbors Search](https://judgegirl.csie.org/problem/0/10017)
-- 10029 [Where is My Life](https://judgegirl.csie.org/problem/0/10029)
-- 10030 [Real Fake Thing](https://judgegirl.csie.org/problem/0/10030)
-- 10032 [Subset String](https://judgegirl.csie.org/problem/0/10032)
-- 10039 [Baby Boos](https://judgegirl.csie.org/problem/0/10039)
-- 10040 [Dictionaries and Substring](https://judgegirl.csie.org/problem/0/10040)
-- 10043 [Advanced Function Pointer](https://judgegirl.csie.org/problem/0/10043)
-- 10052 [Expected Value Syntax Parser](https://judgegirl.csie.org/problem/0/10052)
-- 10053 [Row-Column Game](https://judgegirl.csie.org/problem/0/10053)
-- 10079 [Tiny Command Tool](https://judgegirl.csie.org/problem/0/10079)
-
-### Exam
-- 50011 [Spell Checker](https://judgegirl.csie.org/problem/0/50011)
-- 50013 [Bingo](https://judgegirl.csie.org/problem/0/50013)
-- 50017 [Expression](https://judgegirl.csie.org/problem/0/50017)
-- 50025 [Independent People](https://judgegirl.csie.org/problem/0/50025)
-- 50032 [N-pieces](https://judgegirl.csie.org/problem/0/50032)
-- 50033 [Accounts](https://judgegirl.csie.org/problem/0/50033)
-- 50034 [See-saw](https://judgegirl.csie.org/problem/0/50034)
-- 50044 [Caterpillar in Panic](https://judgegirl.csie.org/problem/0/50044)
-- 50046 [Linear Classifier](https://judgegirl.csie.org/problem/0/50046)
-- 50049 [Matrix Multiplication](https://judgegirl.csie.org/problem/0/50049)
-- 50050 [Spiral Snake](https://judgegirl.csie.org/problem/0/50050)
-- 50051 [Valid License Plates](https://judgegirl.csie.org/problem/0/50051)
-- 50052 [K-means Algorithm](https://judgegirl.csie.org/problem/0/50052)
-- 50053 [The Most Popular Author](https://judgegirl.csie.org/problem/0/50053)
-- 50054 [A Hask Table](https://judgegirl.csie.org/problem/0/50054)
-- 50055 [Waiting Time at Supermarket](https://judgegirl.csie.org/problem/0/50055)
-- 50056 [How Much Money Can You Make?](https://judgegirl.csie.org/problem/0/50056)
-- 50058 [Word Selection](https://judgegirl.csie.org/problem/0/50058)
-- 50059 [Binary Representation](https://judgegirl.csie.org/problem/0/50059)
-- 50060 [Traveling Salesman](https://judgegirl.csie.org/problem/0/50060)
-- 50061 [Donation](https://judgegirl.csie.org/problem/0/50061)
-- 50063 [Friend Distance](https://judgegirl.csie.org/problem/0/50063)
-- 50064 [Merge Sort](https://judgegirl.csie.org/problem/0/50064)
-- 50067 [Walk in a File](https://judgegirl.csie.org/problem/0/50067)
-- 50068 [Tree Traversal](https://judgegirl.csie.org/problem/0/50068)
-- 50071 [Attraction Order](https://judgegirl.csie.org/problem/0/50071)
-- 50073 [Wealth Histogram](https://judgegirl.csie.org/problem/0/50073)
-- 50082 [Two Machines](https://judgegirl.csie.org/problem/0/50082)
-- 50084 [Machines and Jobs](https://judgegirl.csie.org/problem/0/50084)
-- 50085 [Tank Simulation](https://judgegirl.csie.org/problem/0/50085)
