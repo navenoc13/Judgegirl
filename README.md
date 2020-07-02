@@ -4,6 +4,12 @@ My Judgegirl solutions
 
 ## Problem Description
 
+### Basic IO and Arithmetic
+- 3 [Print Two Numbers](https://judgegirl.csie.org/problem/0/3)
+
+### Comparison and Logic
+- 240 [Square-Diamond-and-Rectangle](https://judgegirl.csie.org/problem/0/240)
+
 ### If-then-else-switch
 - 240 [Square-Diamond-and-Rectangle](https://judgegirl.csie.org/problem/0/240)
 
@@ -15,12 +21,27 @@ My Judgegirl solutions
 ### Array
 - 235 [Pachinko](https://judgegirl.csie.org/problem/0/235)
 
+### Function
+- 235 [Pachinko](https://judgegirl.csie.org/problem/0/235)
+
+### Floating Point Numbers
+- 235 [Pachinko](https://judgegirl.csie.org/problem/0/235)
+
+### Pointer
+- 235 [Pachinko](https://judgegirl.csie.org/problem/0/235)
+
+### Character
+- 235 [Pachinko](https://judgegirl.csie.org/problem/0/235)
+
 ### String
 - 46  [Play with Words](https://judgegirl.csie.org/problem/0/46)
 - 47  [Play with Words, too](https://judgegirl.csie.org/problem/0/46)
 - 98  [Food Ingredients in Common](https://judgegirl.csie.org/problem/0/98)
 - 130 [Similar Strings](https://judgegirl.csie.org/problem/0/130)
 - 221 [Typesetting](https://judgegirl.csie.org/problem/0/221)
+- 270 [A Simple BASIC Interpreter](https://judgegirl.csie.org/problem/0/270)
+
+### Extended Data Types and Bit Operation
 - 270 [A Simple BASIC Interpreter](https://judgegirl.csie.org/problem/0/270)
 
 ### Recursion
@@ -37,6 +58,12 @@ My Judgegirl solutions
 - 266 [Edit Eistance](https://judgegirl.csie.org/problem/0/266)
 - 50036 [Pick up Numbers](https://judgegirl.csie.org/problem/0/50036)
 
+### Structure
+- 50036 [Pick up Numbers](https://judgegirl.csie.org/problem/0/50036)
+
+### File I/O
+- 50036 [Pick up Numbers](https://judgegirl.csie.org/problem/0/50036)
+
 ### Data Structure
 - 65  [Expression Tree](https://judgegirl.csie.org/problem/0/65)
 - 87  [Merge Lists](https://judgegirl.csie.org/problem/0/87)
@@ -44,7 +71,7 @@ My Judgegirl solutions
 - 94  [Tree Traversal](https://judgegirl.csie.org/problem/0/94)
 - 269 [Memory Allocation](https://judgegirl.csie.org/problem/0/269)
 
-### Preprocessing
+### Stdlib & Preprocessing
 - 76 [Strings](https://judgegirl.csie.org/problem/0/76)
 - 137 [Students Grades](https://judgegirl.csie.org/problem/0/137)
 - 239 [Daily Expense](https://judgegirl.csie.org/problem/0/239)
