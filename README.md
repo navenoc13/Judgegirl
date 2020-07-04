@@ -104,3 +104,7 @@ My Judgegirl Solutions
 - 282 [Maximum number of 1s for long long](https://judgegirl.csie.org/problem/0/282)
 - 208 [Print a Bitmap](https://judgegirl.csie.org/problem/0/208)
 - 222 [Bookshelf](https://judgegirl.csie.org/problem/0/222)
+
+### Recursion
+- 28 [Sum of Squares with Recursion](https://judgegirl.csie.org/problem/0/28)
+- 38 [Witchcraft](https://judgegirl.csie.org/problem/0/38)
