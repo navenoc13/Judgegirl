@@ -108,3 +108,5 @@ My Judgegirl Solutions
 ### Recursion
 - 28 [Sum of Squares with Recursion](https://judgegirl.csie.org/problem/0/28)
 - 38 [Witchcraft](https://judgegirl.csie.org/problem/0/38)
+- 238 [Subset Sum](https://judgegirl.csie.org/problem/0/238)
+- 104 [Material Composition](https://judgegirl.csie.org/problem/0/104)
