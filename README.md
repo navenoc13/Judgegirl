@@ -115,3 +115,4 @@ Judgegirl Solutions
 - 223 [Tiles](https://judgegirl.csie.org/problem/0/223)
 - 29 [From One Corner to Another](https://judgegirl.csie.org/problem/0/29)
 - 30 [From One Corner to Another with Obstacles](https://judgegirl.csie.org/problem/0/30)
+- 50036 [Pick up Numbers](https://judgegirl.csie.org/problem/0/50036)
