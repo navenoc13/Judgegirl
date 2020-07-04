@@ -101,3 +101,5 @@ My Judgegirl Solutions
 ### Extended Data Types & Bit Operation
 - 281 [Number of 1s](https://judgegirl.csie.org/problem/0/281)
 - 262 [Maximum Number of Consecutive 1's](https://judgegirl.csie.org/problem/0/262)
+- 282 [Maximum number of 1s for long long](https://judgegirl.csie.org/problem/0/282)
+- 208 [Print a Bitmap](https://judgegirl.csie.org/problem/0/208)
