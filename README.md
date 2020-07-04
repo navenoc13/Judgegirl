@@ -110,3 +110,5 @@ My Judgegirl Solutions
 - 38 [Witchcraft](https://judgegirl.csie.org/problem/0/38)
 - 238 [Subset Sum](https://judgegirl.csie.org/problem/0/238)
 - 104 [Material Composition](https://judgegirl.csie.org/problem/0/104)
+- 230 [The Knapsack](https://judgegirl.csie.org/problem/0/230)
+- 53 [Permutation](https://judgegirl.csie.org/problem/0/53)
