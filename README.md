@@ -2,7 +2,7 @@
 #### Professor : [劉邦鋒](http://www.csie.ntu.edu.tw/~pangfeng/)
 #### Course Website : https://sites.google.com/view/ntucsie-c2018/home
 
-My Judgegirl solutions
+My Judgegirl Solutions
 
 ## Problem Description
 
@@ -87,3 +87,13 @@ My Judgegirl solutions
 - 220 [Sentence Count](https://judgegirl.csie.org/problem/0/220)
 - 277 [Digits](https://judgegirl.csie.org/problem/0/277)
 - 10019 [String Trim (Presentation Error)](https://judgegirl.csie.org/problem/0/10019)
+
+### String
+- 130 [Similar Strings](https://judgegirl.csie.org/problem/0/130)
+- 260 [String Fusion](https://judgegirl.csie.org/problem/0/260)
+- 276 [Abbreviation](https://judgegirl.csie.org/problem/0/276)
+- 46 [Play with Words](https://judgegirl.csie.org/problem/0/46)
+- 98 [Food Ingredients in Common](https://judgegirl.csie.org/problem/0/98)
+- 221 [Typesetting](https://judgegirl.csie.org/problem/0/221)
+- 270 [A Simple BASIC Interpreter](https://judgegirl.csie.org/problem/0/270)
+- 47 [Play with Words, Too.](https://judgegirl.csie.org/problem/0/47)
