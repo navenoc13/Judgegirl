@@ -112,3 +112,6 @@ My Judgegirl Solutions
 - 104 [Material Composition](https://judgegirl.csie.org/problem/0/104)
 - 230 [The Knapsack](https://judgegirl.csie.org/problem/0/230)
 - 53 [Permutation](https://judgegirl.csie.org/problem/0/53)
+- 223 [Tiles](https://judgegirl.csie.org/problem/0/223)
+- 29 [From One Corner to Another](https://judgegirl.csie.org/problem/0/29)
+- 30 [From One Corner to Another with Obstacles](https://judgegirl.csie.org/problem/0/30)
