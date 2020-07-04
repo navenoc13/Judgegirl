@@ -116,3 +116,10 @@ Judgegirl Solutions
 - 29 [From One Corner to Another](https://judgegirl.csie.org/problem/0/29)
 - 30 [From One Corner to Another with Obstacles](https://judgegirl.csie.org/problem/0/30)
 - 50036 [Pick up Numbers](https://judgegirl.csie.org/problem/0/50036)
+
+### Structure
+- 275 [Set](https://judgegirl.csie.org/problem/0/275)
+- 210 [SQL Database](https://judgegirl.csie.org/problem/0/210)
+- 249 [Company](https://judgegirl.csie.org/problem/0/249)
+- 44 [Library Fine](https://judgegirl.csie.org/problem/0/44)
+- 251 [Company, Again](https://judgegirl.csie.org/problem/0/251)
