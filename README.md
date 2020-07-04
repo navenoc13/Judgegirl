@@ -103,3 +103,4 @@ My Judgegirl Solutions
 - 262 [Maximum Number of Consecutive 1's](https://judgegirl.csie.org/problem/0/262)
 - 282 [Maximum number of 1s for long long](https://judgegirl.csie.org/problem/0/282)
 - 208 [Print a Bitmap](https://judgegirl.csie.org/problem/0/208)
+- 222 [Bookshelf](https://judgegirl.csie.org/problem/0/222)
