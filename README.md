@@ -2,7 +2,7 @@
 #### Professor : [劉邦鋒](http://www.csie.ntu.edu.tw/~pangfeng/)
 #### Course Website : https://sites.google.com/view/ntucsie-c2018/home
 
-My Judgegirl Solutions
+Judgegirl Solutions
 
 ## Problem Description
 
@@ -104,3 +104,14 @@ My Judgegirl Solutions
 - 282 [Maximum number of 1s for long long](https://judgegirl.csie.org/problem/0/282)
 - 208 [Print a Bitmap](https://judgegirl.csie.org/problem/0/208)
 - 222 [Bookshelf](https://judgegirl.csie.org/problem/0/222)
+
+### Recursion
+- 28 [Sum of Squares with Recursion](https://judgegirl.csie.org/problem/0/28)
+- 38 [Witchcraft](https://judgegirl.csie.org/problem/0/38)
+- 238 [Subset Sum](https://judgegirl.csie.org/problem/0/238)
+- 104 [Material Composition](https://judgegirl.csie.org/problem/0/104)
+- 230 [The Knapsack](https://judgegirl.csie.org/problem/0/230)
+- 53 [Permutation](https://judgegirl.csie.org/problem/0/53)
+- 223 [Tiles](https://judgegirl.csie.org/problem/0/223)
+- 29 [From One Corner to Another](https://judgegirl.csie.org/problem/0/29)
+- 30 [From One Corner to Another with Obstacles](https://judgegirl.csie.org/problem/0/30)
