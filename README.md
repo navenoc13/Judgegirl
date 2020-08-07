@@ -123,3 +123,8 @@ Judgegirl Solutions
 - 249 [Company](https://judgegirl.csie.org/problem/0/249)
 - 44 [Library Fine](https://judgegirl.csie.org/problem/0/44)
 - 251 [Company, Again](https://judgegirl.csie.org/problem/0/251)
+
+### File I/O
+- 89 [File Encoding](https://judgegirl.csie.org/problem/0/89)
+- 264 [Byte Frequency Count](https://judgegirl.csie.org/problem/0/264)
+- 136 [Convert a Binary Grade File to HTML](https://judgegirl.csie.org/problem/0/136)
