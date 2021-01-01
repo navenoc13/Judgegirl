@@ -1,7 +1,7 @@
 # NTU CSIE 107-1 Introduction to Computer Programming
 #### Professor : [劉邦鋒](http://www.csie.ntu.edu.tw/~pangfeng/)
 #### Course Website : https://sites.google.com/view/ntucsie-c2018/home
-
+#### Judge System: https://judgegirl.csie.org/
 Judgegirl Solutions
 
 ## Problem Description
@@ -128,3 +128,4 @@ Judgegirl Solutions
 - 89 [File Encoding](https://judgegirl.csie.org/problem/0/89)
 - 264 [Byte Frequency Count](https://judgegirl.csie.org/problem/0/264)
 - 136 [Convert a Binary Grade File to HTML](https://judgegirl.csie.org/problem/0/136)
+- 225 [Friends](https://judgegirl.csie.org/problem/0/225)
