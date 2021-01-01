@@ -129,3 +129,6 @@ Judgegirl Solutions
 - 264 [Byte Frequency Count](https://judgegirl.csie.org/problem/0/264)
 - 136 [Convert a Binary Grade File to HTML](https://judgegirl.csie.org/problem/0/136)
 - 225 [Friends](https://judgegirl.csie.org/problem/0/225)
+
+### Data Structure & Object
+- 224 [Supervisors and Subordinates](https://judgegirl.csie.org/problem/0/224)
